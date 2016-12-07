@@ -262,3 +262,7 @@ ADD Shopping Cart
 ADD File and Directory Manager
 * http://wijmo.com/widgets/mvvm-support/angularjs-support/ 
 * 
+
+Add CMS
+* http://strapi.io/documentation/admin
+* 
