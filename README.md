@@ -231,3 +231,34 @@ Currently the `ENV_NAME`s are `dev`, `prod`, `staging`, but you can simply add a
 ├── typings.json
 └── appveyor.yml
 ```
+
+### ToDo List
+
+Add Goole Auth
+* https://github.com/speakeasyjs/speakeasy for Google Auth nor https://github.com/google/google-api-nodejs-client
+* https://scotch.io/tutorials/easy-node-authentication-google
+* http://passportjs.org/
+* http://stribny.name/blog/2015/09/authentication-quickstart-with-express-passport-and-sequelize 
+
+Add LdapAuth Support
+* https://github.com/trentm/node-ldapauth
+* https://github.com/vesse/passport-ldapauth
+* http://ldapjs.org/
+
+Add postgresql Support
+* http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WEdVHWdVJhE
+* http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.WEdVI2dVJhE
+
+Add  ToDo List App
+* http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.WEdVI2dVJhE
+
+ADD Shopping Cart 
+* https://github.com/snapjay/ngcart
+* https://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535
+* https://www.codeproject.com/articles/576246/a-shopping-cart-application-built-with-angularjs
+* https://github.com/snapjay/ngcart
+* https://ngmodules.com/modules/angularjscart
+
+ADD File and Directory Manager
+* http://wijmo.com/widgets/mvvm-support/angularjs-support/ 
+* 
